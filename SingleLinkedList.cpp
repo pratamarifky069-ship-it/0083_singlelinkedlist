@@ -100,6 +100,7 @@ public:
             return true;
         }
 
+        // fungsi menampilkan data
         void traverse()
         {
             if (listEmpty())
