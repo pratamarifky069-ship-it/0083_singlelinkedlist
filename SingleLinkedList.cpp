@@ -198,5 +198,6 @@ int main()
 
     }while (ch != '5');
 
+    // akhir program
     return 0;   
 }
