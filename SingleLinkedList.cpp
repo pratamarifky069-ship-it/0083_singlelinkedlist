@@ -11,6 +11,7 @@ public:
     Node *next;
 };
 
+// class linked list
 class LinkedList
 {
     Node *START;
