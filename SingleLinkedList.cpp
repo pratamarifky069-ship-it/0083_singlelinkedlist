@@ -83,6 +83,7 @@ public:
             return (current != NULL);
         }
 
+        // fungsi hapus data
         bool delNode(int nim)
         {
             Node *current, *previous;
